@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/MerkatorBV/.github/main/profile/merkator-logo-dark.webp#gh-dark-mode-only" alt="Merkator" height="44">
+
 ## About Merkator
 
 Merkator is a geospatial engineering company delivering GIS, asset-management and
